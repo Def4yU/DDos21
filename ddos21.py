@@ -1,4 +1,4 @@
-DDOS.py
+
 # -*- coding: utf-8 -*-
 # Author : anonymous_ID
 # All copyrights to Anonm Independent 2021
